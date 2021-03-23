@@ -1,4 +1,4 @@
-package com.example.composetheme
+package com.example.composeWeatherApp
 
 import com.google.gson.annotations.SerializedName
 import java.util.*

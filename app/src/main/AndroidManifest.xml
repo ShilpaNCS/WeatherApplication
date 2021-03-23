@@ -19,7 +19,7 @@
         tools:ignore="HardcodedDebugMode"
         tools:targetApi="m">
         <activity
-            android:name=".WeatherActivity"
+            android:name="com.example.composeWeatherApp.WeatherActivity"
             android:label="Weather Forecast"
             android:configChanges="orientation"
             android:screenOrientation="portrait"

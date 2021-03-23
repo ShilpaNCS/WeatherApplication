@@ -1,4 +1,4 @@
-package com.example.composetheme
+package com.example.composeWeatherApp
 
 import retrofit2.Call
 import retrofit2.http.GET
