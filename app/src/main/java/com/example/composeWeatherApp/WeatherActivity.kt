@@ -32,7 +32,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.ui.tooling.preview.Devices
 import androidx.ui.tooling.preview.Preview
-import com.example.composetheme.R
 import com.example.composeWeatherApp.ui.darkblue
 import retrofit2.Call
 import retrofit2.Callback

@@ -1,4 +1,4 @@
-package com.example.composetheme
+package com.example.composeWeatherApp
 
 import org.junit.Test
 
